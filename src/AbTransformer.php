@@ -9,7 +9,6 @@
 namespace HundredLee;
 
 
-use function foo\func;
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Model;
 
